@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a608d5a0-a882-40e8-a963-0796b8f4d69e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../01 - Pandas Data Wrangling and Data Viz/hw1-sol.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/all_entities.csv.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/japanese_athletes.csv.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorials/07 - Applied ML/AppliedML_solutions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorials/08 - Unsupervised learning/Unsupervised_Learning.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorials/08 - Unsupervised learning/Unsupervised_Learning_solutions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorials/08 - Unsupervised learning/clusters.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorials/08 - Unsupervised learning/img/wheat_banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorials/08 - Unsupervised learning/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorials/08 - Unsupervised learning/seeds_dataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorials/08 - Unsupervised learning/wine-clustering.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorials/09 - Handing text/Handling_text_exercise_1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorials/09 - Handing text/Handling_text_exercise_2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorials/09 - Handing text/books/DRACULA.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorials/09 - Handing text/books/Frankenstein.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorials/09 - Handing text/books/Moby_Dick.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorials/09 - Handing text/books/PRIDE_AND_PREJUDICE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorials/09 - Handing text/data/all_scripts.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorials/09 - Handing text/helpers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorials/09 - Handing text/helpers/helper_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorials/09 - Handing text/helpers/stopwords.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorials/09 - Handing text/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutorials/09 - Handing text/spacy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01 - Pandas Data Wrangling and Data Viz/hw1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../01 - Pandas Data Wrangling and Data Viz/hw1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorials/06 - Supervised Learning/SupervisedLearning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorials/06 - Supervised Learning/SupervisedLearning.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorials/06 - Supervised Learning/SupervisedLearning_solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorials/06 - Supervised Learning/SupervisedLearning_solution.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HvIzfIjcFgYJS4gOMEQrnkEOZb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sunyukang/Documents/Study/EPFL/Ada/EPFL_ADA/Homework/02 - Regression Observational Studies Stats and Supervised Learning&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a608d5a0-a882-40e8-a963-0796b8f4d69e" name="Changes" comment="" />
+      <created>1669159394020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669159394020</updated>
+      <workItem from="1669159395482" duration="300000" />
+      <workItem from="1669159707169" duration="1550000" />
+      <workItem from="1669195119942" duration="3629000" />
+      <workItem from="1669200645988" duration="2316000" />
+      <workItem from="1669212883456" duration="410000" />
+      <workItem from="1669214833753" duration="1899000" />
+      <workItem from="1669455817279" duration="2251000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
